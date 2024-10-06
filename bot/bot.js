@@ -418,4 +418,4 @@ if(command === "mad" ||  command === "angry" ){
    
 
 // Replace 'YOUR_BOT_TOKEN' with your actual bot token
-client.login(process.env.TOKEN);
+client.login(process.env.TOKEN_NEW);
